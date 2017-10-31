@@ -65,6 +65,7 @@
     "S3972",
     "S3984",
     "S4043",
+    "S4165",
     "UnreachableCode",
     "UnusedVariable",
     "WithStatement"
